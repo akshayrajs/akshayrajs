@@ -1,12 +1,16 @@
-<img align="center" width="1200" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fda%2F41%2Fab%2Fda41ab5851b4f8f2394622f8cadf5002.jpg&f=1&nofb=1" alt="l1v3y" />
-<h1 alight="center">whoami?</h1>
-<h2 align="center">── 卐 I am Livey 卐 ──</h2>
+# 🤔 Whoami?:
+👨🏻‍💻 Network Penetration Testing <br>
+🤖 Learning Data Engineering <br>
 
-<h4 align="left">⛦ Cyber Security Nerd</h4>
-<h4 align="left">⛦ Repo For SRM</h4>
-<h4 align="left">⛦ "Time Is Sprinting"</h4>
+![](https://media1.tenor.com/m/LJCYeIjvptsAAAAC/gif-gid-dedsec.gif)
 
+## 🌐 Socials:
+[![HackTheBox](https://www.hackthebox.com/badge/image/824412)](https://app.hackthebox.com/profile/824412)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/livey..png)](https://tryhackme.com/p/livey.)<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshayrajs) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://livey.medium.com/) 
 
-<p><img src="https://tryhackme-badges.s3.amazonaws.com/livey..png" alt="TryHackMe">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=l1v3y&show_icons=true&locale=en&layout=compact&title_color=ffffff&bg_color=000000&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="l1v3y" /></p>
-<p><img src="https://www.hackthebox.com/badge/image/824412" alt="HackTheBox">
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=akshayrajs&theme=aura&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=akshayrajs&theme=aura&hide_border=false)<br/>
