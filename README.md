@@ -5,7 +5,7 @@
 🔍 Somewhat of Digital Forensics Nerd <br>
 🤖 Learning Data Engineering <br>
 
-![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3hiN2w4dmZjejg1ZnYzZW5ucmtqdThoamI0Nzh6ZWIwdzYyM2t4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KmHueA88mFABT9GkkR/giphy.gif)
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGx0bm85MjR5ZTUzM2gwYjM4OW00eXN1eXgyMnhtOWg4MWM5ZWZrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rbst7XSD9K2dsazQTE/giphy.gif)
 
 ## 🌐 Socials:
 [![HackTheBox](https://www.hackthebox.com/badge/image/824412)](https://app.hackthebox.com/profile/824412)
