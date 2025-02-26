@@ -1,11 +1,11 @@
-# 🤔 Whoami?:
+![giphy](https://github.com/user-attachments/assets/cd7a82ce-4a4d-47c1-9b97-ed155694d490)# 🤔 Whoami?:
 👨🏻‍💻 Network Penetration Tester <br>
 🕸️ Web Penetration Tester <br>
 🕵️ OSINTer <br> 
 🔍 Somewhat of Digital Forensics Nerd <br>
 🤖 Learning Data Engineering <br>
 
-![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGx0bm85MjR5ZTUzM2gwYjM4OW00eXN1eXgyMnhtOWg4MWM5ZWZrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rbst7XSD9K2dsazQTE/giphy.gif)
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJwMHNla3pkcTVnZDZ5ZTc4b3Uxcjl1MHVmbXFseG00cW9uYXBnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0He7R7bYtQPDRziM/giphy.gif)
 
 ## 🌐 Socials:
 [![HackTheBox](https://www.hackthebox.com/badge/image/824412)](https://app.hackthebox.com/profile/824412)
