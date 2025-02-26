@@ -1,4 +1,4 @@
-![giphy](https://github.com/user-attachments/assets/cd7a82ce-4a4d-47c1-9b97-ed155694d490)# 🤔 Whoami?:
+# 🤔 Whoami?:
 👨🏻‍💻 Network Penetration Tester <br>
 🕸️ Web Penetration Tester <br>
 🕵️ OSINTer <br> 
