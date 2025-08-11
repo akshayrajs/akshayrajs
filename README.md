@@ -1,9 +1,8 @@
 # 🤔 Whoami?:
 👨🏻‍💻 Network Penetration Tester <br>
 🕸️ Web Penetration Tester <br>
-🕵️ OSINTer <br> 
+🕵️ Bug Bounty Researcher <br> 
 🔍 Somewhat of Digital Forensics Nerd <br>
-🤖 Learning Data Engineering <br>
 
 ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJwMHNla3pkcTVnZDZ5ZTc4b3Uxcjl1MHVmbXFseG00cW9uYXBnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0He7R7bYtQPDRziM/giphy.gif)
 
