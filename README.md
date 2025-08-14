@@ -4,7 +4,7 @@
 🕵️ Bug Bounty Researcher <br> 
 🔍 Somewhat of Digital Forensics Nerd <br>
 
-![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJwMHNla3pkcTVnZDZ5ZTc4b3Uxcjl1MHVmbXFseG00cW9uYXBnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0He7R7bYtQPDRziM/giphy.gif)
+![](https://media1.tenor.com/m/9IjLGaIiVLgAAAAC/lukeafk-hacking.gif)
 
 ## 🌐 Socials:
 [![HackTheBox](https://www.hackthebox.com/badge/image/824412)](https://app.hackthebox.com/profile/824412)
