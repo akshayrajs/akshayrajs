@@ -1,4 +1,4 @@
-# 🤔 Whoami?:
+# 👾 Whoami?:
 👨🏻‍💻 Network Penetration Tester <br>
 🕸️ Web Penetration Tester <br>
 🕵️ Bug Bounty Researcher <br> 
